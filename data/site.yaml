@@ -1,0 +1,8 @@
+copyright: © 2021 Copyright.
+
+# Meta description for your site.  This will help the search engines to find your site.
+description: Developer Portfolio site
+
+customMenus:
+- name: Portfolio
+  url: /portfolio
